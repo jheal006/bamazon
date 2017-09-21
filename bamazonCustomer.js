@@ -65,8 +65,6 @@ function orders() {
           var quantity = res[0].stock_quantity;
           if (quantity > answers.units) {
             quantity = quantity - answers.units;
-            // console.log("QUANTITY ========= ", quantity);
-            // console.log("response ========", res);
             connection.query(
               queryUpdate,
               [
@@ -90,11 +88,7 @@ function orders() {
             console.log('Not enough items in stock!');
             orders();
           }
-          // console.log(res);
-          // // re-prompt the user for if they want to bid or post
-          // console.log(answers.units)
       });
-      // console.log('Sold!');
     });
 }
 
