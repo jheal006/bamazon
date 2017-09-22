@@ -11,7 +11,7 @@ A small Amazon-like storefront app using SQL that will take in orders from custo
 
 
 3) In the instance that the customer attempts to order more items than are in the store inventory, they warned of the circumstance and reprompted to select an item.<br>
-![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Capture4.PNG)
+![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Capture5.PNG)
 
 
 
