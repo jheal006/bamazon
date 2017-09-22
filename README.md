@@ -10,11 +10,11 @@ A small Amazon-like storefront app using SQL that will take in orders from custo
 ![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Capture2.PNG)
 
 
-3) In the instance that the customer attempts to order more items than are in the store inventory, they warned of the circumstance and reprompted to select an item.
+3) In the instance that the customer attempts to order more items than are in the store inventory, they warned of the circumstance and reprompted to select an item.<br>
 ![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Capture4.PNG)
 
 
 
-4) After successfully selecting an availble quantity of items the customer wishes to purchase, they are 
+4) After successfully selecting an availble quantity of items the customer wishes to purchase, they are presented with the total price of their purchase. <br>
 ![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Capture3.PNG)
 
