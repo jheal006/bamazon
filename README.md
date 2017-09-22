@@ -3,6 +3,6 @@ A small Amazon-like storefront app using SQL that will take in orders from custo
 
 
 ![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Screenshot%20(5).png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Screenshot%20(6).png)
+![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Screenshot%20(7).png)
+![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Screenshot%20(8).png)
