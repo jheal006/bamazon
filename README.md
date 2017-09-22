@@ -18,3 +18,6 @@ A small Amazon-like storefront app using SQL that will take in orders from custo
 4) After successfully selecting an availble quantity of items the customer wishes to purchase, they are presented with the total price of their purchase. <br>
 ![alt text](https://github.com/jheal006/bamazon/blob/master/assets/Capture3.PNG)
 
+
+Video Demo)
+![alt text](https://github.com/jheal006/bamazon/blob/master/assets/ScreenCaptureProject3.zip)
