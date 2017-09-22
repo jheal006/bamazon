@@ -20,4 +20,4 @@ A small Amazon-like storefront app using SQL that will take in orders from custo
 
 
 Video Demo)
-![alt text](https://github.com/jheal006/bamazon/blob/master/assets/ScreenCaptureProject3.zip)
+[Video Demo Zip](https://github.com/jheal006/bamazon/blob/master/assets/ScreenCaptureProject3.zip)
